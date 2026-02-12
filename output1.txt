@@ -1,0 +1,29 @@
+PERSON Smith
+OUTGOING:
+Smith (1) [20240101 0900]: Hello #test
+INCOMING:
+Jones (2) [20240101 0930]: Morning update
+PERSON Jones
+OUTGOING:
+Jones (2) [20240101 0930]: Morning update
+INCOMING:
+Lee (3) [20240101 1000]: First post #test
+POSTS WITH #test
+Smith (1) [20240101 0900]: Hello #test
+Lee (3) [20240101 1000]: First post #test
+PERSON Smith
+OUTGOING:
+INCOMING:
+Jones (2) [20240101 0930]: Morning update
+TOP 3 ACTIVE POSTERS
+1) Jones 1
+2) Lee 1
+3) Smith 0
+TOP 3 RECEIVERS
+1) Jones 1
+2) Smith 1
+3) Lee 0
+TOP 3 MOST FOLLOWED
+1) Jones 1
+2) Lee 1
+3) Smith 0

@@ -1,0 +1,18 @@
+4
+Smith 2 Jones Lee
+Jones 1 Lee
+Lee 1 Smith
+Brown 0
+12
+A Smith 10 20240101 0830 Early post #news
+A Jones 20 20240101 0900 Morning thoughts #news
+A Lee 30 20240101 0915 Checking in #update
+A Smith 11 20240102 1015 Second day post #update
+A Lee 31 20240102 1100 Another update #news
+P Smith
+S #news
+D Jones 20
+P Lee
+X 3
+A Brown 40 20240103 1200 Hello world #intro
+X 4

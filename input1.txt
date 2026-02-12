@@ -1,0 +1,14 @@
+3
+Smith 1 Jones
+Jones 1 Lee
+Lee 0
+9
+A Smith 1 20240101 0900 Hello #test
+A Jones 2 20240101 0930 Morning update
+A Lee 3 20240101 1000 First post #test
+P Smith
+P Jones
+S #test
+D Smith 1
+P Smith
+X 3

@@ -1,0 +1,54 @@
+PERSON Smith
+OUTGOING:
+Smith (101) [20240201 0930]: Hello world #intro
+Smith (102) [20240202 1200]: Another post about #AI and #Cplusplus
+INCOMING:
+Jones (201) [20240201 1015]: Working on #AI project
+Patel (301) [20240201 1110]: Lunch break #food
+PERSON Patel
+OUTGOING:
+Patel (301) [20240201 1110]: Lunch break #food
+INCOMING:
+Lee (401) [20240202 0900]: Good morning #intro
+POSTS WITH #AI
+Jones (201) [20240201 1015]: Working on #AI project
+Smith (102) [20240202 1200]: Another post about #AI and #Cplusplus
+PERSON Jones
+OUTGOING:
+Jones (201) [20240201 1015]: Working on #AI project
+INCOMING:
+Patel (301) [20240201 1110]: Lunch break #food
+Lee (401) [20240202 0900]: Good morning #intro
+TOP 3 ACTIVE POSTERS
+1) Jones 1
+2) Lee 1
+3) Patel 1
+TOP 3 RECEIVERS
+1) Jones 2
+2) Smith 2
+3) Lee 1
+TOP 3 MOST FOLLOWED
+1) Lee 2
+2) Patel 2
+3) Jones 1
+POSTS WITH #intro
+Lee (401) [20240202 0900]: Good morning #intro
+Brown (501) [20240203 1500]: First post here #intro
+TOP 10 ACTIVE POSTERS
+1) Brown 1
+2) Jones 1
+3) Lee 1
+4) Patel 1
+5) Smith 1
+TOP 10 RECEIVERS
+1) Jones 2
+2) Smith 2
+3) Lee 1
+4) Patel 1
+5) Brown 0
+TOP 10 MOST FOLLOWED
+1) Lee 2
+2) Patel 2
+3) Jones 1
+4) Smith 1
+5) Brown 0

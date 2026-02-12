@@ -1,0 +1,21 @@
+5
+Smith 2 Jones Patel
+Jones 2 Patel Lee
+Patel 1 Lee
+Lee 1 Smith
+Brown 0
+14
+A Smith 101 20240201 0930 Hello world #intro
+A Jones 201 20240201 1015 Working on #AI project
+A Patel 301 20240201 1110 Lunch break #food
+A Lee 401 20240202 0900 Good morning #intro
+A Smith 102 20240202 1200 Another post about #AI and #Cplusplus
+P Smith
+P Patel
+S #AI
+D Smith 101
+P Jones
+X 3
+A Brown 501 20240203 1500 First post here #intro
+S #intro
+X 10
